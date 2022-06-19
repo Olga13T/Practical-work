@@ -1,0 +1,15 @@
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\bin\Debug\net6.0\Practical_work.exe
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\bin\Debug\net6.0\Practical_work.deps.json
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\bin\Debug\net6.0\Practical_work.runtimeconfig.json
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\bin\Debug\net6.0\Practical_work.dll
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\bin\Debug\net6.0\Practical_work.pdb
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.csproj.AssemblyReference.cache
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.AssemblyInfoInputs.cache
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.AssemblyInfo.cs
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.csproj.CoreCompileInputs.cache
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.dll
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\refint\Practical_work.dll
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.pdb
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\Practical_work.genruntimeconfig.cache
+C:\Users\helga\OneDrive\Рабочий стол\Homeworks_sharp\Practical_work\obj\Debug\net6.0\ref\Practical_work.dll
